@@ -1,2 +1,2 @@
 DELETE FROM terms
-WHERE terms_id = 6
+WHERE terms_id = 6;

@@ -36,7 +36,7 @@ Excercise #6: UPDATE invoices SET credit_total = invoice_total * 0.1, payment_to
 
 This statement modifies the row added to Invoices in excercise #4. It uses some basic equations to caculate the values for the credit_total and payment_total cells in this row.
 
-<img width="1472" alt="ch5_ex6_results" src="https://user-images.githubusercontent.com/122643455/218331755-73872721-e9d2-4a50-9f96-51ee2b20c596.png">
+<img width="1383" alt="ch5_ex6_results" src="https://user-images.githubusercontent.com/122643455/218332584-63025be9-612c-4cc8-b7ae-c8ddb17c81b7.png">
 
 Excercise #7: UPDATE vendors SET default_account_number = 403 WHERE vendor_id = 44;
 

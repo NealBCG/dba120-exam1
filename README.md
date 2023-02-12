@@ -4,6 +4,8 @@ This is an explanation of the MySQL queries in this repository and their result.
 
 Excercise #1: This statement adds a new row to the Terms table.
 
+<img width="838" alt="ch5_ex1_results" src="https://user-images.githubusercontent.com/122643455/218331673-91f7d522-37af-4c99-8849-f6b2d257a1bc.png">
+
 Excercise #2: This statement modifies the data in the row added by the previous statement.
 
 Excercise #3: This statement deletes the row added in excercise #1.
